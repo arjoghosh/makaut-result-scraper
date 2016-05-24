@@ -1,3 +1,5 @@
+# Author : Arjo Ghosh আর্য্য ঘোষ
+
 import requests,xlsxwriter,time,random,os,re,sys,glob,csv
 from bs4 import BeautifulSoup
 from xlsxwriter.workbook import Workbook
